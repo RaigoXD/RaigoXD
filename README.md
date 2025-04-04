@@ -17,13 +17,6 @@
   <li>🎯 Fun Fact: I can solve a Rubik's cube in under 60 seconds </li>
 </ul>
 
-<h2>✒️ Recent Content</h2>
-<details>
-  <summary>Latest Posts</summary>
-  <li><a href="[Post1 URL]">[Post1 Title] — [Date]</a></li>
-  <li><a href="[Post2 URL]">[Post2 Title] — [Date]</a></li>
-  <li><a href="[Post3 URL]">[Post3 Title] — [Date]</a></li>
-</details>
 
 <h2>🛠️ Tech Stack</h2>
 <p align="left">
